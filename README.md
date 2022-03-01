@@ -7,7 +7,7 @@ Just studying OPP with Python. It's a text-based game inspired in pokemon.
 * 5 textmon types
 * Battle and damage functions
 
-## 1 - Next steps
+## 2 - Next steps
 
 * Menu development
 * Level progession
